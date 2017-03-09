@@ -204,12 +204,6 @@ namespace Cards
             }
         }
 
-        public void IndexTreeNotSelected() 
-        {
-            indextreeselected = 0;
-            btDelete.Enabled = false;
-        }
-
         private void timer1_Tick(object sender, EventArgs e)
         {
             AnimationStart();

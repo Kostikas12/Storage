@@ -50,7 +50,7 @@ namespace Cards
 
         private void btNo_Click(object sender, EventArgs e)
         {
-            MainControl.Instance.IndexTreeNotSelected();
+            MainControl.Instance.RefreshDecks();
             Clear();
             this.Close();
         }
