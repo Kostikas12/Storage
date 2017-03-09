@@ -20,11 +20,8 @@ D:\reserve\Tests\1. For Xamarin\2. NET Framework\Cards\Cards\obj\Debug\Cards.csp
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\Cards\Cards\obj\Debug\Cards.exe
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\Cards\Cards\obj\Debug\Cards.pdb
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\bin\Debug\Cards.exe.config
-D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.exe
-D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.pdb
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\bin\Debug\Cards.exe
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\bin\Debug\Cards.pdb
-D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\bin\Debug\System.Data.SQLite.xml
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.CardViewControl.resources
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.AddCardControl.resources
@@ -34,3 +31,5 @@ D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.F
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.MainControl.resources
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.Properties.Resources.resources
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.exe
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\obj\Debug\Cards.pdb
