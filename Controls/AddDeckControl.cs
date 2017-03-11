@@ -126,7 +126,14 @@ namespace Cards
         {
             if ((e.KeyChar == (char)Keys.Back) || Char.IsDigit(e.KeyChar))
             {
-                return;
+                if (tbNumParams.Text == "0" && e.KeyChar == (char)Keys.D0)
+                {
+                    e.Handled = true;
+                }
+                else
+                {
+                    return;
+                }
             }
             else
             {
@@ -183,7 +190,7 @@ namespace Cards
 
                 if (tbNumParams.Text.Length != 0)
                 {
-                    if (Convert.ToInt32(tbNumParams.Text) == listBox1.Items.Count && tbName.Text.Length != 0 && tbType.Text.Length != 0)
+                    if (Convert.ToInt32(tbNumParams.Text) == listBox1.Items.Count && tbNumParams.Text!="0" && tbName.Text.Length != 0 && tbType.Text.Length != 0)
                     {
                         btCreate.Enabled = true;
                         btCreate.BackColor = Color.LightGreen;

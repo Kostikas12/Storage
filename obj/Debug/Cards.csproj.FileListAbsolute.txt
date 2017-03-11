@@ -46,3 +46,16 @@ D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Storage\obj\Debug
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Storage\obj\Debug\Cards.MainControl.resources
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Storage\obj\Debug\Cards.Properties.Resources.resources
 D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Storage\obj\Debug\Cards.csproj.GenerateResource.Cache
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\bin\Debug\Cards.exe.config
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.exe
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.pdb
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.CardViewControl.resources
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.AddCardControl.resources
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.AddDeckControl.resources
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.DialogDelete.resources
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.Form1.resources
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.MainControl.resources
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\bin\Debug\Cards.exe
+D:\reserve\Tests\1. For Xamarin\2. NET Framework\PROJECT\Cards\Cards\bin\Debug\Cards.pdb
